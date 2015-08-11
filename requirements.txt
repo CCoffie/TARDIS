@@ -1,0 +1,8 @@
+pexpect
+argparse
+requests
+python-dateutil
+mysql-connector-python
+elasticsearch
+splunk-sdk
+stix
